@@ -1,4 +1,4 @@
-# Awesome Sysadmin
+#  Sysadmin
 A curated list of amazingly awesome open source sysadmin resources.
 
 ## Contributing
